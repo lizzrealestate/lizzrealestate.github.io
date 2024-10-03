@@ -1,0 +1,9 @@
+.coming_soon {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.loading{
+    font-size: x-large;
+    font-weight: bold;
+}
